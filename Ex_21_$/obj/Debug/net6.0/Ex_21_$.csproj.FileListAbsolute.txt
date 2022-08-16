@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\bin\Debug\net6.0\Ex_21_$.exe
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\bin\Debug\net6.0\Ex_21_$.deps.json
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\bin\Debug\net6.0\Ex_21_$.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\bin\Debug\net6.0\Ex_21_$.dll
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\bin\Debug\net6.0\Ex_21_$.pdb
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.dll
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\refint\Ex_21_$.dll
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.pdb
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\Ex_21_$.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_21_$\obj\Debug\net6.0\ref\Ex_21_$.dll
