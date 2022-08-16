@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_18_switch\obj\Debug\net6.0\Ex_18_switch.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_18_switch\obj\Debug\net6.0\Ex_18_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_18_switch\obj\Debug\net6.0\Ex_18_switch.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_18_switch\obj\Debug\net6.0\Ex_18_switch.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar3_CSharp\Ex_18_switch\obj\Debug\net6.0\Ex_18_switch.csproj.CoreCompileInputs.cache
